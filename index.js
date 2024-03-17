@@ -7,6 +7,7 @@ var UINT32_MAX = 4294967295
 
 var Box = exports
 
+Box.boxes=boxes;
 /*
  * Lists the proper order for boxes inside containers.
  * Five-character names ending in 's' indicate arrays instead of single elements.
